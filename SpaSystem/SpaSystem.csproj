@@ -186,10 +186,17 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\index-style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\spa-bg.jpg" />
+    <Content Include="Images\spa-bg2.jpg" />
+    <Content Include="Images\spa-img2.jpg" />
+    <Content Include="Images\spa-img3.jpg" />
+    <Content Include="Images\spa-img.jpg" />
+    <Content Include="Images\spa-img4.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />

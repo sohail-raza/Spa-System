@@ -1,0 +1,24 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body{
+    background-color:black;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-size:xx-small;
+}
+
+
+
+
+.background {
+    height: 100%;
+    width: 100%;
+}
